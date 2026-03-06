@@ -99,14 +99,20 @@
 ---
 
 ## 📋 요구사항 명세서
-> 요구사항 명세서 첨부 예정
-
+> [요구사항 명세서](https://docs.google.com/spreadsheets/d/1bW-t6EJQ1NW_uqkoiAgVqqeyeDuuh2muPwpv8ee4Y2s/edit?usp=sharing)
+> ![img_3.png](img_3.png)
+> ![img_4.png](img_4.png)
+> ![img_5.png](img_5.png)
+> 
 ---
 
 ## 🪧 ERD
-
-> ERD 이미지 첨부 예정
-
+> [ERD 이미지](https://docs.google.com/spreadsheets/d/1bW-t6EJQ1NW_uqkoiAgVqqeyeDuuh2muPwpv8ee4Y2s/edit?usp=sharing)
+> ![img_7.png](img_7.png)
+> ![img_8.png](img_8.png)
+> ![img_9.png](img_9.png)
+> ![img_10.png](img_10.png)
+> ![img_11.png](img_11.png)
 ---
 
 ## 🗃️ 테이블 명세서
