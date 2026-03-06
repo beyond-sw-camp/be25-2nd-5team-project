@@ -100,24 +100,34 @@
 
 ## 📋 요구사항 명세서
 > [요구사항 명세서](https://docs.google.com/spreadsheets/d/1bW-t6EJQ1NW_uqkoiAgVqqeyeDuuh2muPwpv8ee4Y2s/edit?usp=sharing)
-> ![img_3.png](img_3.png)
-> ![img_4.png](img_4.png)
-> ![img_5.png](img_5.png)
+> <img width="1253" height="616" alt="0006" src="https://github.com/user-attachments/assets/a673d195-2814-4cab-886d-d116ac2a5081" />
+
+> <img width="1253" height="627" alt="0007" src="https://github.com/user-attachments/assets/ad49f3fb-ba88-427a-a232-f29d37eb51dc" />
+
+> <img width="1253" height="203" alt="0008" src="https://github.com/user-attachments/assets/c3b66b10-d6c9-4647-a729-af592188945c" />
+
 > 
 ---
 
 ## 🪧 ERD
-> [ERD 이미지](https://docs.google.com/spreadsheets/d/1bW-t6EJQ1NW_uqkoiAgVqqeyeDuuh2muPwpv8ee4Y2s/edit?usp=sharing)
-> ![img_7.png](img_7.png)
-> ![img_8.png](img_8.png)
-> ![img_9.png](img_9.png)
-> ![img_10.png](img_10.png)
-> ![img_11.png](img_11.png)
+> ERD 이미지 첨부 예정
+> 
 ---
 
 ## 🗃️ 테이블 명세서
 
-> 테이블 명세서 이미지 첨부 예정
+> [테이블 명세서](https://docs.google.com/spreadsheets/d/1bW-t6EJQ1NW_uqkoiAgVqqeyeDuuh2muPwpv8ee4Y2s/edit?usp=sharing)
+> 
+> <img width="1592" height="577" alt="0001" src="https://github.com/user-attachments/assets/3ac9c89f-ec03-4d4e-aacd-ff9e8104c515" />
+
+> <img width="1592" height="628" alt="0002" src="https://github.com/user-attachments/assets/3a107a6c-a74c-4e3a-a036-8da812653d8b" />
+
+> <img width="1592" height="590" alt="0003" src="https://github.com/user-attachments/assets/0459cda1-1201-4640-a5e6-1e1384a6baab" />
+
+> <img width="1592" height="630" alt="0004" src="https://github.com/user-attachments/assets/0ad86793-67ed-4615-a390-52d8dc7f72f8" />
+
+> <img width="1592" height="570" alt="0005" src="https://github.com/user-attachments/assets/3fae7b04-e835-46cc-82dc-51357f913fc6" />
+
 
 **총 14개 테이블**
 `users` `email_verifications` `albums` `music_features` `user_fav_music` `user_profiles` `user_groups` `group_members` `viewed_profiles` `friendships` `chat_rooms` `chat_room_members` `chat_messages` `notifications`
