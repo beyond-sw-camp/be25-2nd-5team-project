@@ -100,24 +100,26 @@
 
 ## 📋 요구사항 명세서
 > [요구사항 명세서](https://docs.google.com/spreadsheets/d/1bW-t6EJQ1NW_uqkoiAgVqqeyeDuuh2muPwpv8ee4Y2s/edit?usp=sharing)
+
 > <img width="1253" height="616" alt="0006" src="https://github.com/user-attachments/assets/a673d195-2814-4cab-886d-d116ac2a5081" />
 
 > <img width="1253" height="627" alt="0007" src="https://github.com/user-attachments/assets/ad49f3fb-ba88-427a-a232-f29d37eb51dc" />
 
 > <img width="1253" height="203" alt="0008" src="https://github.com/user-attachments/assets/c3b66b10-d6c9-4647-a729-af592188945c" />
 
-> 
+>
 ---
 
 ## 🪧 ERD
 > [ERD](https://www.erdcloud.com/d/MEMRtro3g2PtxsnCE)
+
 > <img width="1480" height="789" alt="erd" src="https://github.com/user-attachments/assets/0843a848-2e35-4366-b78b-3ede51581168" />
 
 ---
 
 ## 🗃️ 테이블 명세서
-
 > [테이블 명세서](https://docs.google.com/spreadsheets/d/1bW-t6EJQ1NW_uqkoiAgVqqeyeDuuh2muPwpv8ee4Y2s/edit?usp=sharing)
+
 > <img width="1592" height="597" alt="0001" src="https://github.com/user-attachments/assets/1bba87ee-df74-443b-aea1-00cbdd34d545" />
 
 > <img width="1592" height="628" alt="0002" src="https://github.com/user-attachments/assets/3a107a6c-a74c-4e3a-a036-8da812653d8b" />
@@ -136,7 +138,13 @@
 
 ## 🎯 API 명세서
 
-> API 명세서 링크 첨부 예정
+> [API 명세서](https://www.notion.so/5-API-f76901cdc00882208183014b29afe442?source=copy_link)
+
+---
+
+## 🖥 화면 및 기능 설계서
+
+> [화면 및 기능 설계서](https://www.figma.com/board/daSTynfA5bNxs7zU00zo6I/flow-chart?t=ePHmKATAdPWGXzb6-1)
 
 ---
 
